@@ -52,8 +52,8 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ashishgkwd534/myOTF" }
-  #s.ios.vendored_frameworks = 'OTFAR.framework'
+  s.source       = { :git => "https://github.com/ashishgkwd534/myOTF.git" :tag => s.version.to_s}
+  s.ios.vendored_frameworks = 'UnityFramework.framework'
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -64,7 +64,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "UnityFramework/**.*"
+  #s.source_files  = "UnityFramework/**.*"
  # s.exclude_files = "UnityFramework/Exclude"
 
    s.public_header_files = "UnityFramework.h"
