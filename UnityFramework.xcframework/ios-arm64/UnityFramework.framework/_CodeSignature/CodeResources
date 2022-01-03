@@ -6,11 +6,11 @@
 	<dict>
 		<key>Data/Managed/EditorToUnityLinkerData.json</key>
 		<data>
-		I2ycjipw9xiYCYRYMP+jMngkjRs=
+		kIug5Ua6W5B2BNLbKUjMpx04dgY=
 		</data>
 		<key>Data/Managed/Metadata/global-metadata.dat</key>
 		<data>
-		XS9DhfukwWx1MGRCnxq9Yqyex3Q=
+		MKTy4hgnxB7B+MnLbymZSv48OBc=
 		</data>
 		<key>Data/Managed/Resources/System.Data.dll-resources.dat</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Data/Managed/TypesInScenes.xml</key>
 		<data>
-		83maO89vrO8qJFCsFViSatPUO9c=
+		Uu3ErzHtGjpCOkTHkqIN01PlBDE=
 		</data>
 		<key>Data/Managed/UnityLinkerToEditorData.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Data/Managed/response.rsp</key>
 		<data>
-		WpRS8suWGAwmZKqpGZ1KH1Kwuqg=
+		Yxf+/uOd6iiKlGgNWuLWF3JE9ao=
 		</data>
 		<key>Data/Raw/aa/AddressablesLink/link.xml</key>
 		<data>
@@ -42,15 +42,23 @@
 		</data>
 		<key>Data/Raw/aa/catalog.json</key>
 		<data>
-		huCfeaW/EaVHIkK483rl3ySevkI=
+		OOlySxCGA2QkVWaXUdrrHOfix8w=
 		</data>
 		<key>Data/Raw/aa/settings.json</key>
 		<data>
-		Hk+Vrb/1fTqJlExvi2LpRRv5bZs=
+		6fSFRIci/yzJefUrO1DC1RMUUl8=
+		</data>
+		<key>Data/Raw/build_info</key>
+		<data>
+		/G+YPHrBax/0hNnOsC7X5xwI45w=
 		</data>
 		<key>Data/Resources/unity_builtin_extra</key>
 		<data>
 		WWYoQthCnPilEGsflEcPugWKlWI=
+		</data>
+		<key>Data/UnitySubsystems/UnityARKit/UnitySubsystemsManifest.json</key>
+		<data>
+		+GKRDz3gg4Oukye/b7m43rGA3yE=
 		</data>
 		<key>Data/UnitySubsystems/UnityMockHMD/UnitySubsystemsManifest.json</key>
 		<data>
@@ -62,15 +70,15 @@
 		</data>
 		<key>Data/globalgamemanagers</key>
 		<data>
-		haes7k7YZ6Edq/PFJTtUtjcyYMY=
+		nOl/TjLKAv7ZBHTTToqwK8zTgtA=
 		</data>
 		<key>Data/globalgamemanagers.assets</key>
 		<data>
-		bOqXogsEoX0vtFSpTa60maQlJes=
+		d4kjpEqpQAUURks4vOLIt3OpJwI=
 		</data>
 		<key>Data/level0</key>
 		<data>
-		WupZ5GvweNOP6gQiB2Vdy/Uhmc0=
+		qsSg3G6c7DNklwFTJ4x9rSCavjg=
 		</data>
 		<key>Data/level0.resS</key>
 		<data>
@@ -78,7 +86,7 @@
 		</data>
 		<key>Data/resources.assets</key>
 		<data>
-		2NifZmKXzCAcodPhi8hvZtQAr0s=
+		SzNtkYNzJloeiwiksCWBDvwuCYk=
 		</data>
 		<key>Data/resources.assets.resS</key>
 		<data>
@@ -86,11 +94,11 @@
 		</data>
 		<key>Data/sharedassets0.assets</key>
 		<data>
-		6MxmRxqrMUNfCRPVpPWjxsUdoMk=
+		8DKsAOEeNVhUhqpiHeaBHLL0Vis=
 		</data>
 		<key>Data/sharedassets0.assets.resS</key>
 		<data>
-		GTNBdiUyxjeH5A9fcEZWZq6fuFE=
+		fS01cWJ+SQYv1KOD36WKZ+QT4vE=
 		</data>
 		<key>Data/unity default resources</key>
 		<data>
@@ -99,6 +107,10 @@
 		<key>Headers/LifeCycleListener.h</key>
 		<data>
 		HY+nnMKHOyvbyXVGB6x7JKMrFIk=
+		</data>
+		<key>Headers/NativeCallProxy.h</key>
+		<data>
+		nL+L/Tlm6ePAA++4Lj67VoPr04k=
 		</data>
 		<key>Headers/RedefinePlatforms.h</key>
 		<data>
@@ -135,14 +147,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C4p4qvBKZ7wkzfmD9vrwViwf/BvotBol9yka7yXkWWY=
+			D6BStLS+wD2B/qRtr8hyLalJHoXvY1ajCe2MeO2aKW4=
 			</data>
 		</dict>
 		<key>Data/Managed/Metadata/global-metadata.dat</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kl3mA9YzZeS8659WyZkqvzzb25a1Si+PNxUst7YgqAc=
+			nNyjp1J+bgay+8euzWSBPDEM7EW+GHBtRIyE/XPdDk4=
 			</data>
 		</dict>
 		<key>Data/Managed/Resources/System.Data.dll-resources.dat</key>
@@ -163,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YP/YBtLCD11uHu1Ohi4UkRMlo+M+jPVLw1kgYM7HlS8=
+			Ob6nQLC5X/L3HXZwYwBHyp13NnAYuWP1KxKLsxz78gQ=
 			</data>
 		</dict>
 		<key>Data/Managed/UnityLinkerToEditorData.json</key>
@@ -184,7 +196,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EvZtX5PSCXcQXSN/yHlb7SNvv50nGZD43oMKpmQnPOs=
+			gAEXbuTesPB1q+QJaxuF7NoyTJTXREB98s/Ac0eOLYo=
 			</data>
 		</dict>
 		<key>Data/Raw/aa/AddressablesLink/link.xml</key>
@@ -198,14 +210,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XdrCoCeSr1dgTkfQYn3m/W9KhkKmZJ9CUGrWGxbj6mY=
+			1U/kufaajFMq2NpjL5dKePs+eDOtc1vAr77qHi+5zWU=
 			</data>
 		</dict>
 		<key>Data/Raw/aa/settings.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cJZ/NVpm+WCgcqlMSZmsdcsNwm8htI92Ug8zDRIxb7w=
+			QT8qcNXrKFFcB8zyLb0uIyAh2BXM9LmDyuNNEiA5s0c=
+			</data>
+		</dict>
+		<key>Data/Raw/build_info</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TN9W3AJidZKv1jsAHexgRB0Zb2Ic/hV0Bb8hN+KC/Ik=
 			</data>
 		</dict>
 		<key>Data/Resources/unity_builtin_extra</key>
@@ -213,6 +232,13 @@
 			<key>hash2</key>
 			<data>
 			jILiMe17JjWlzcXlK6TgiN7KIj/AVm5nP5/Bkt7j7GI=
+			</data>
+		</dict>
+		<key>Data/UnitySubsystems/UnityARKit/UnitySubsystemsManifest.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OowzfIJUGnytDfoEt7lccszsPgIdLTjBnLN3z/Fyv4o=
 			</data>
 		</dict>
 		<key>Data/UnitySubsystems/UnityMockHMD/UnitySubsystemsManifest.json</key>
@@ -233,21 +259,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			39J6oW4QX8uwyVmX5drRGEiUcQ8TmBChmGuJGRRcuhU=
+			IkXDMoRzV8pUe+VY09RlRJb+Wv4+7TfjdO0+52BLpNQ=
 			</data>
 		</dict>
 		<key>Data/globalgamemanagers.assets</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yQrEUJRuw+gMbUfRvlzlrqgRXKloBG93fedMDkfVh8s=
+			FJoKiXFs5NXwSACxpa8ZYTDQYofIwkgFffwW/6u1A84=
 			</data>
 		</dict>
 		<key>Data/level0</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RX1fBOS4iQ5se4Ex0E0+9ZsnDg3ONgwrL2YVROv297g=
+			UXF6Hrh83jHNLxceU/ZQOVG9CDKfWJBYuBch4mvXU1M=
 			</data>
 		</dict>
 		<key>Data/level0.resS</key>
@@ -261,7 +287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ps2jInJXi2kXhXtsf9GU0pblvZljrwJhcDVVXe18X3o=
+			TkOJ3v1NuvQ88SXpXiDWHsV0jCxcmSm58XxRwp0wn00=
 			</data>
 		</dict>
 		<key>Data/resources.assets.resS</key>
@@ -275,14 +301,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4pV+OnKYEhisC0BdbmejTBJgFQbhYkqBhoPSX96Ibnk=
+			hGHyrAIY/VYVIo6aa5w9JVLxoFuB8OxpxV9bI2pW2ts=
 			</data>
 		</dict>
 		<key>Data/sharedassets0.assets.resS</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YZy7WPQDFuYoYeJFla9zR5H/pgUrxOSnfMHYqbsV5Q4=
+			DAht7N5JuxHlFNsc1sXhqj7EpLkP0LFPdY6WTev9wHU=
 			</data>
 		</dict>
 		<key>Data/unity default resources</key>
@@ -297,6 +323,13 @@
 			<key>hash2</key>
 			<data>
 			3IyJk2JNSU2+gjMWlagCbqN+VVNY49yY4JkX6eG4w0E=
+			</data>
+		</dict>
+		<key>Headers/NativeCallProxy.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T8I4XfuOj/CaSpxxUAl4De59fDe5ZV/A5DbUXvGM1ro=
 			</data>
 		</dict>
 		<key>Headers/RedefinePlatforms.h</key>

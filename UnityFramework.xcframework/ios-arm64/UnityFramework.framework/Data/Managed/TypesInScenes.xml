@@ -45,6 +45,8 @@
 		<type fullname="BackButton" preserve="nothing"/>
 		<type fullname="ErrorHandler" preserve="nothing"/>
 		<type fullname="EventBroadcaster" preserve="nothing"/>
+		<type fullname="Reporter" preserve="nothing"/>
+		<type fullname="ReporterMessageReceiver" preserve="nothing"/>
 		<type fullname="SimpleLoading" preserve="nothing"/>
 		<type fullname="TriggerLoad" preserve="nothing"/>
 	</assembly>
@@ -56,6 +58,9 @@
 		<type fullname="TMPro.TMP_StyleSheet" preserve="nothing"/>
 		<type fullname="TMPro.TextMeshPro" preserve="nothing"/>
 		<type fullname="TMPro.TextMeshProUGUI" preserve="nothing"/>
+	</assembly>
+	<assembly fullname="Unity.XR.ARKit">
+		<type fullname="UnityEngine.XR.ARKit.ARKitLoader" preserve="nothing"/>
 	</assembly>
 	<assembly fullname="Unity.XR.Management">
 		<type fullname="UnityEngine.XR.Management.XRGeneralSettings" preserve="nothing"/>

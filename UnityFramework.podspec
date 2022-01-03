@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "UnityFramework"
-  s.version      = "0.0.2"
+  s.version      = "0.0.4"
   s.summary      = "Hyper-personalised Mobile App Re-Engagement via Machine Learning"
-  s.homepage     = "https://github.com/ashishgkwd534/myOTF"
+  s.homepage     = "https://github.com/letscooee/myOTF"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -52,7 +52,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ashishgkwd534/myOTF.git"}
+  s.source       = { :git => "https://github.com/letscooee/myOTF.git"}
   s.ios.vendored_frameworks = 'UnityFramework.xcframework'
 
 
