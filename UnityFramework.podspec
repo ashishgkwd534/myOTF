@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "OTFAR"
+  s.name         = "UnityFramework"
   s.version      = "0.0.1"
   s.summary      = "Hyper-personalised Mobile App Re-Engagement via Machine Learning"
   s.homepage     = "https://github.com/ashishgkwd534/myOTF"
@@ -64,8 +64,8 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "CooeeOTFAR/**.*"
- # s.exclude_files = "CooeeOTFAR/Exclude"
+  s.source_files  = "UnityFramework/**.*"
+ # s.exclude_files = "UnityFramework/Exclude"
 
    s.public_header_files = "UnityFramework.h"
 

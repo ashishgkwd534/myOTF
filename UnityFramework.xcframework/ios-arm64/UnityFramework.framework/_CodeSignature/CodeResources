@@ -100,10 +100,6 @@
 		<data>
 		HY+nnMKHOyvbyXVGB6x7JKMrFIk=
 		</data>
-		<key>Headers/NativeCallProxy.h</key>
-		<data>
-		nL+L/Tlm6ePAA++4Lj67VoPr04k=
-		</data>
 		<key>Headers/RedefinePlatforms.h</key>
 		<data>
 		HJCbumie7gYnaGedVpKPJVU5M4A=
@@ -126,7 +122,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MGsz1MfLtq+LBzyK1rzxNKtJLLw=
+		8lYyF0ojaMXPibR5oJ3BoMGpEQU=
+		</data>
+		<key>Modules/module.modulemap</key>
+		<data>
+		gT6dbQPwGPpe65U3etY1OXNQcAc=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -299,13 +299,6 @@
 			3IyJk2JNSU2+gjMWlagCbqN+VVNY49yY4JkX6eG4w0E=
 			</data>
 		</dict>
-		<key>Headers/NativeCallProxy.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			T8I4XfuOj/CaSpxxUAl4De59fDe5ZV/A5DbUXvGM1ro=
-			</data>
-		</dict>
 		<key>Headers/RedefinePlatforms.h</key>
 		<dict>
 			<key>hash2</key>
@@ -339,6 +332,13 @@
 			<key>hash2</key>
 			<data>
 			VI5J9h1FtMRzFtz766DgyCOrd+zfySej1AoYUFGzJ7g=
+			</data>
+		</dict>
+		<key>Modules/module.modulemap</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BusdVonzJbIziovirbQJIvpg9m7ikf2dJ6taHoN6/zY=
 			</data>
 		</dict>
 	</dict>

@@ -8,7 +8,7 @@
 			<key>LibraryIdentifier</key>
 			<string>ios-arm64</string>
 			<key>LibraryPath</key>
-			<string>CooeeOTFAR.framework</string>
+			<string>UnityFramework.framework</string>
 			<key>SupportedArchitectures</key>
 			<array>
 				<string>arm64</string>
