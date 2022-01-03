@@ -52,8 +52,8 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ashishgkwd534/myOTF.git", :tag => s.version}
-  s.ios.vendored_frameworks = 'UnityFramework.framework'
+  s.source       = { :git => "https://github.com/ashishgkwd534/myOTF.git"}
+  s.ios.vendored_frameworks = 'UnityFramework.xcframework'
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
